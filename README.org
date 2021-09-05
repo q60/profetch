@@ -1,10 +1,10 @@
 * profetch
 ** Screenshots
 
-| By [[https://github.com/q60][v]]    |
+| By [[https://github.com/q60][v]]                            |
 | [[https://i.imgur.com/HbG9z6G.png]] |
-|-------------------------------------|
-| By me                               |
+|---------------------------------|
+| By me                           |
 | [[https://i.imgur.com/HKzf5DT.png]] |
 
 ** Requirements
@@ -14,17 +14,17 @@
 
 ** Building
 #+begin_example
-  $ make
+$ make
 #+end_example
 
 ** Using
 #+begin_example
-  $ ./profetch
+$ ./profetch
 #+end_example
 
 ** Installing
 #+begin_example
-  $ sudo make install
+$ sudo make install
 #+end_example
 
 * Links
